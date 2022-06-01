@@ -1,3 +1,12 @@
+#Server
+tomcat 9
+
+#IDE
+eclipse
+
+#Database
+PostgreSQL
+
 #docker tomcat
 A basic setup to running Simple Rest API using Docker
 
